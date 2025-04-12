@@ -5,9 +5,9 @@ Icons地址请使用raw地址
 
 Apple：
 ```plaintext
-https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/Apple.png
+https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/Color/Apple_1.png
 ```
-![Apple 图标](https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/Apple.png)
+![Apple 图标](https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/Color/Apple_1.png)
 
 Chatgpt:
 ```plaintext
