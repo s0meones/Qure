@@ -87,6 +87,12 @@ https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/Color/YouTube.png
 ```
 ![Youtube](https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/Color/YouTube.png)
 
+Select默认代理
+```plaintext
+https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/Color/Static.png
+```
+![Select默认代理](https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/Color/Static.png)
+
 US
 ```plaintext
 https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/Color/United_States.png
