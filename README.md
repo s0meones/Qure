@@ -13,7 +13,7 @@ Chatgpt:
 ```plaintext
 https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/ChatGPT-green.png
 ```
-![Chatgpt](https://raw.githubusercontent.com/s0meones/Qure/master/ChatGPT-green.png)
+![Chatgpt](https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/ChatGPT-green.png)
 
 Emby:
 ```plaintext
