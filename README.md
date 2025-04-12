@@ -11,15 +11,15 @@ https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/Apple.png
 
 Chatgpt:
 ```plaintext
-https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/ChatGPT-green.png
+https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/Color/ChatGPT.png
 ```
-![Chatgpt](https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/ChatGPT-green.png)
+![Chatgpt](https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/Color/ChatGPT.png)
 
 Emby:
 ```plaintext
-https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/Emby.png
+https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/Color/Emby.png
 ```
-![Emby](https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/Emby.png)
+![Emby](https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/Color/Emby.png)
 
 
 
