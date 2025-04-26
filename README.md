@@ -105,3 +105,8 @@ https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/Color/Hong_Kong.p
 ```
 ![HK](https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/Color/Hong_Kong.png)
 
+SG
+```plaintext
+https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/Color/Singapore.png
+```
+![SG](https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/Color/Singapore.png)
