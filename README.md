@@ -110,3 +110,9 @@ SG
 https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/Color/Singapore.png
 ```
 ![SG](https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/Color/Singapore.png)
+
+JP
+```plaintext
+https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/Color/Japan.png
+```
+![JP](https://raw.githubusercontent.com/s0meones/Qure/master/IconSet/Color/Japan.png)
